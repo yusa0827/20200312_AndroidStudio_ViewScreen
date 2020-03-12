@@ -1,0 +1,2 @@
+rootProject.name='My_size_changer'
+include ':app'
